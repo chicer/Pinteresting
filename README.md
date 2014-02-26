@@ -1,6 +1,5 @@
-# One Month Rails 
+# Hello Look at how boss I am
 
-This is the pinteresting sample application for 
-[*One Month Rails*](http://onemonthrails.com)
+This is to show tshamby that i am a boss
 
-by [Mattan Griffel]
+by [Chicer]
